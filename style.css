@@ -1,0 +1,162 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.logo{
+    height: 59px;
+    width: 198.07142639160156px;
+    left: 212px;
+    top: 30px;
+    border-radius: 0px;
+    top: 30px;
+
+}
+.sing-in{
+    height: 43px;
+    width: 104px;
+    left: 1201px;
+    top: 25px;
+    border-radius: 33px;
+    padding: 12px, 28px, 12px, 28px;
+    background: #21B573;
+    border: none;
+    color: white;
+    margin-left: 50px;
+
+
+}
+.orange{
+    height: 24px;
+    width: 188px;
+    left: 205px;
+    top: 178px;
+    border-radius: nullpx;
+    color: #FD511A;
+    font: poppins;
+
+}
+.container{
+  margin-bottom: 100px;
+}
+.color{
+    color: orange;
+}
+.button-get{
+    height: 43px;
+    width: 153px;
+    left: 205px;
+    top: 470px;
+    border-radius: 33px;
+    padding: 12px, 36px, 12px, 36px;
+    background: #21B573;
+    color: white;
+    border: none;
+    margin-top: 30px;
+
+
+}
+.famely{
+    height: 346px;
+    width: 554px;
+    left: 691px;
+    top: 157px;
+    border-radius: 0px;
+
+}
+.logo-icon{
+   margin: 50px 100px;
+    width: 66px;
+    height: 85px;
+    
+
+    
+
+
+}
+
+.topic{
+    position: absolute;
+width: 138px;
+height: 36px;
+left: 201px;
+top: 779px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+}
+.topic-2{
+    position: absolute;
+width: 128px;
+height: 24px;
+left: 206px;
+top: 815px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 24px;
+color: orange;
+}
+.logo-icon-2{
+    height: 83px;
+width: 80px;
+left: 535px;
+top: 670px;
+border-radius: 0px;
+margin-left: 553px;
+
+
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 8px lightgray;
+}
+.text-muted{
+    font-size: 15px;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.calendar{
+    height: 20px;
+    width: 20px;
+    left: 11px;
+    top: 15px;
+    border-radius: 0px;
+
+}
+.start{
+    
+    width: 146px;
+    height: 24px;
+    left: 184px;
+    top: 1530px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: -23px;
+    margin-left: 25px;
+
+}
+.start-1{
+    width: 146px;
+    height: 24px;
+    left: 184px;
+    top: 1530px;
+    
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 24px;
+    margin-top: -23px;
+    margin-left: 25px;
+
+}
